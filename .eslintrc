@@ -1,0 +1,10 @@
+// off = 0
+// warn = 1
+// error = 2
+
+{
+  "extends": "airbnb",
+  "rules": {
+    // Additional, per-project rules...
+  }
+}
